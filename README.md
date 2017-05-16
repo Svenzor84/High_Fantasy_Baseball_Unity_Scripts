@@ -3,6 +3,8 @@ C# Scripts for the video game High Fantasy Baseball, created in the Unity3D Game
 
 A Standalone, no install required version of the game is available in the google drive folder at this link. Here follow the notes for the most recent version:
 
+https://drive.google.com/open?id=0B-LOwNKFbxZKUmcxU0lCMHA3emM
+
 Welcome to High Fantasy Baseball!
 
 This is an extremely early version of the game, and thus very few mechanisms/game modes are available:
